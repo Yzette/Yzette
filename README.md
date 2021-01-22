@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Cover](https://github.com/Yzette/Yzette/blob/master/japan.jpg)
+
 <!--
 **Yzette/Yzette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
