@@ -1,7 +1,9 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on the customization of my github
- ![Cover](https://github.com/Yzette/Yzette/blob/main/japan.jpg)
+🌱 I’m a new web developer and i search for my first experience! 🕵️‍♀️
+ ![Cover](https://github.com/Yzette/Yzette/blob/main/developer.jpg)
+
+
 
 <!--
 **Yzette/Yzette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
