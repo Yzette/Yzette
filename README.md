@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m a new web developer and i search for my first experience! 🕵️‍♀️
+🌱 I’m a web developer! 🕵️‍♀️
  ![Cover](https://github.com/Yzette/Yzette/blob/main/developer.jpg)
 
 
